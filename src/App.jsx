@@ -1,11 +1,13 @@
 import './App.css'
+import LoginRegister from './screens/LoginRegister'
 
-function App() {
+const App = () => {
   
 
   return (
     <>
-    Heloo world 22
+    <LoginRegister/>
+    
     </>
   )
 }
